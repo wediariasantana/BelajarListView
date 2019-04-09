@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">"Belajar List View "</string>
+    <string-array name="daftar">
+        <item>Logo Akakom</item>
+        <item>Petir</item>
+        <item>Luar Angkasa</item>
+        <item>Akakom</item>
+        <item>Planet Lain</item>
+    </string-array>
+
+</resources>
